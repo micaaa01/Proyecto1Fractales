@@ -1,0 +1,18 @@
+#archivo de ejemplo
+nombre=FractalCubo
+degree=3
+threshold=0.0001
+#polynomial=(1.0,0.0);(0.0,0.0);(0.0,0.0);(-1.0,0.0)
+coef0=(1.0,4.0)
+coef1=(0.0,0.0)
+coef2=(0.0,2.0)
+coef3=(-1.0,0.0)
+xmin=-2.0
+xmax=2.0
+ymin=-2.0
+ymax=2.0
+ancho=800
+alto=800
+maxIter=300
+escala=1.0
+output = fractalEr.png
